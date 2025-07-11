@@ -51,7 +51,7 @@ pip install notebook pandas plotly
 
 jupyter notebook
 
-3. Open `Kitui_Central_Projects_Analysis.ipynb` from your browser  
+3. Open `Kitui_project_data_tracking.ipynb` from your browser  
 
 ## Tools Used
 
